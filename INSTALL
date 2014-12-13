@@ -1,0 +1,11 @@
+
+INSTALLATION
+============
+1. Prerequisite libraries
+libboost-system1.40-dev
+libboost-thread1.40-dev
+liblog4cxx10-dev
+libgtop2-dev 		// Note: A compiled code runs without this package.
+libxen3-dev			// Note: This is for qemu-kvm
+
+uml-utilities		// Note: This is for tunctl
